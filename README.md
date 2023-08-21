@@ -8,3 +8,4 @@
  A game.py file exists that has requirements for a game of Snake that Co-Pilot will use to try and create.
 
  For demonstrational purposes.
+ You will need to have Co-Pilot enabled on your account to use it.
